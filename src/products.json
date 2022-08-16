@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "title": "Sakız",
+        "price": 0.5,
+        "image": "https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30082462/30082462_0_MC/8796797599794_1555415441220.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Dondurma",
+        "price": 6,
+        "image": "http://www.cagri.com/Uploads/UrunResimleri/buyuk/algida-magnum-dbl-pnt-wht-cokis-440-ml-a63-27.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Ayakkabı",
+        "price": 400,
+        "image": "http://cdn.shopify.com/s/files/1/0069/3442/9751/products/166800C_3_af55c423-5bd1-4c07-bf1a-7d70d2321882_1200x1200.jpg?v=1624387920"
+
+    },
+    {
+        "id": "4",
+        "title": "Araba",
+        "price": 160000,
+        "image": "https://pbs.twimg.com/media/FGaL4UYXEAA5g_3.jpg"
+
+    }
+]
